@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6082" started-at="2017-05-30T16:18:47Z" finished-at="2017-05-30T16:18:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6082" started-at="2017-05-30T16:18:47Z" finished-at="2017-05-30T16:18:53Z">
+      <class name="TestFramework.createIssue">
+        <test-method status="PASS" signature="Session()[pri:0, instance:TestFramework.createIssue@4520ebad]" name="Session" is-config="true" duration-ms="46" started-at="2017-05-30T09:18:47Z" finished-at="2017-05-30T09:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Session -->
+        <test-method status="PASS" signature="createBug()[pri:0, instance:TestFramework.createIssue@4520ebad]" name="createBug" duration-ms="6023" started-at="2017-05-30T09:18:47Z" finished-at="2017-05-30T09:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBug -->
+      </class> <!-- TestFramework.createIssue -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
